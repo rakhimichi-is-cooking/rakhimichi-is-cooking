@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About me
 
-🎓 **ITBBA Student @ Haaga-Helia University of Applied Sciences (2025–2027)**  
+🎓 **ITBBA Student @Haaga-Helia University of Applied Sciences (2025–2027)**  
 💻 **Focused on software engeneering, full-stack fundamentals, data and real side projects**  
 🧭 Switching careers from logistics & operations → software engineering
 
