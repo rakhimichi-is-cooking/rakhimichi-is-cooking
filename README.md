@@ -16,7 +16,7 @@
 💻 **Focused on software engeneering, full-stack fundamentals, data and real side projects**  
 🧭 Switching careers from logistics & operations → software engineering
 
-I enjoy building things from scratch, understanding how systems work end-to-end, and turning ideas into working apps.
+I enjoy building things from scratch, understanding how systems work end-to-end, turning ideas into working apps.
 
 ---
 
@@ -49,7 +49,7 @@ I enjoy building things from scratch, understanding how systems work end-to-end,
 
 ## 🌍 Background
 
-Before tech, I spent several years in **logistics & operations** (Finland & UAE), managing complex processes, teams, and international projects.
+Before tech, I spent several years in **logistics & operations** (Finland & UAE), managing complex processes, teams and international projects.
 
 That experience gave me:
 
