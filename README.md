@@ -4,7 +4,7 @@
 
 # 🍳 Hey! I'm Kirill.
 
-• Passionate about side projects • Future iOS Developer • Mobile & Full-Stack Enthusiast • Cooking codes here 
+• Passionate about pet projects • Future iOS Developer • Mobile & Full-Stack Enthusiast • Cooking codes here 
 
 📍Based in Helsinki, Finland
 
