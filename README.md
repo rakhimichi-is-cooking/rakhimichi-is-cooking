@@ -13,7 +13,7 @@
 ## 👨‍💻 About me
 
 🎓 **ITBBA Student @ Haaga-Helia University of Applied Sciences (2025–2027)**  
-💻 **Focused on iOS development, full-stack fundamentals, data and real side projects**  
+💻 **Focused on software engeneering, full-stack fundamentals, data and real side projects**  
 🧭 Switching careers from logistics & operations → software engineering
 
 I enjoy building things from scratch, understanding how systems work end-to-end, and turning ideas into working apps.
