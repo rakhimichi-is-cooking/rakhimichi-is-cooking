@@ -64,10 +64,10 @@ Now I’m applying all of this to software development.
 
 ## 🔗 Let’s Connect
 
-- 📩 **Email** rakhimov23@icloud.com
+- 📩 **Email:** rakhimov23@icloud.com
 - 💼 **LinkedIn:** https://www.linkedin.com/in/rakhimov23
-- 📸 **Instagram** https://www.instagram.com/rakhimichi/
-- 🔗 **Personal Website** https://bento.me/rakhimov
+- 📸 **Instagram:** https://www.instagram.com/rakhimichi/
+- 🔗 **Personal Website:** https://bento.me/rakhimov
 
 ---
 
