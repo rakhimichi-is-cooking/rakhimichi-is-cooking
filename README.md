@@ -43,7 +43,7 @@ I enjoy building things from scratch, understanding how systems work end-to-end,
 
 ---
 
-## 🧪 Projects I'm Cooking (soon to be public)
+## 🧪 Projects (soon to be public)
 
 ---
 
