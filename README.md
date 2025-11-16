@@ -6,7 +6,7 @@
 
 • Passionate about pet projects • Future iOS Developer • Mobile & Full-Stack Enthusiast • Cooking codes here 
 
-📍Based in Helsinki, Finland
+📍Based in Helsinki, Finland 
 
 ---
 
