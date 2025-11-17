@@ -43,7 +43,9 @@ I enjoy building things from scratch, understanding how systems work end-to-end,
 
 ---
 
-## 🧪 Projects (soon to be public)
+## 🧪 Projects 
+
+AI Assistant for Valio Aimo Company (Junction Hackathon 2025, Helisnki) - https://github.com/rakhimichi-is-cooking/valio-aimo-assistant-Junction2025
 
 ---
 
