@@ -79,11 +79,9 @@ Now I’m applying all of this to software development.
 
 ## 📊 GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhimichi-is-cooking&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
 ![](https://github-readme-stats.vercel.app/api?username=rakhimichi-is-cooking&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=rakhimichi-is-cooking&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhimichi-is-cooking&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
